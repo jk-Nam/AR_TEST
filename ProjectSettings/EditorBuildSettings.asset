@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1. Scenes/Main.unity
+    guid: fdf198e53d893de4e8dd476cb0aadaeb
+  - enabled: 1
+    path: Assets/1. Scenes/PlaneTest.unity
+    guid: aa832abf11bd2334fbfe6b0c636749c6
+  - enabled: 1
+    path: Assets/1. Scenes/FaceTracking.unity
+    guid: 0013e878fee0f9849bb622b5d2dbf179
+  - enabled: 1
+    path: Assets/1. Scenes/FaceSwitch.unity
+    guid: 2a189a332e19da74bafd3d4f15d7a7c2
+  - enabled: 1
+    path: Assets/1. Scenes/BodyTracking.unity
+    guid: a593a7a504e7055489fcf7f662c4f16c
+  - enabled: 1
+    path: Assets/1. Scenes/ImageTrackingObject.unity
+    guid: dc4f6c8df77711f41b5ec176246c7619
+  - enabled: 1
+    path: Assets/1. Scenes/MultiImageTrackingTest.unity
+    guid: 3cabb1ce38a79d5499a7f55f10f028aa
+  - enabled: 1
+    path: Assets/1. Scenes/ObjectTracking.unity
+    guid: 25cae8d6ea32dd149b5cdc0a86ccefbb
+  - enabled: 0
+    path: Assets/1. Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: be2b300ec3258aa43ba47369b544793a, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 83514cc85982ee246a2dfcab7b33b870, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: e6e3080192ba1564fa3248423be10696, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: e653158b1c86c7447b15e1b7d7d8f44b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d319d9f414046144e9708119d8c00c73, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 3496f1a8e0754b241aaa55688c1c6dcb, type: 2}
